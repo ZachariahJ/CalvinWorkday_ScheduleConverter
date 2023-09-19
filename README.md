@@ -3,6 +3,6 @@
  - Export your courses as EXCEL from workday.calvin.edu
  - Make sure the name is "View_My_Courses.xlsx"
  - INSTALL PYTHON IN YOUR COMPUTER
- - RUN <code>pip3 install openpyxl</code> in cmd/terminal
+ - RUN '''pip3 install openpyxl''' in cmd/terminal
  - Put the script and the excel at the same directory.
  - RUN the script and IMPORT "courses.isc" to your Calendar
