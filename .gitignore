@@ -1,5 +1,9 @@
-.vscode
 __pycache__
+.vscode
+bin
+include
+lib
+lib64
+killgunicorn.sh
 pyvenv.cfg
-
-
+quiet_run.sh
